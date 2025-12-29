@@ -89,7 +89,7 @@ The focus is not just on **accuracy**, but on **balancing recall and precision**
 
 ## 🙌 Acknowledgements  
 
-- Dataset: **Customer Churn Dataset** (add link if public).  
+- Dataset: **Customer Churn Dataset** 
 - Inspired by real-world CRM challenges faced by the banking sector.  
 
 ---
